@@ -28,9 +28,9 @@ classes: wide
 
   
   
-| Dominio |  Estado  |   Links   |   Issues   |   Descripción   |  Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | 
-| -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-| Urbanismo e infraestructuras | Inexistente |  *[Repositorio](https://github.com/opencitydata/urbanismo-infraestructuras-cartografica)* |  *[Generar issue](https://github.com/opencitydata/urbanismo-infraestructuras-cartografica/issues)*   | Saneamiento público, Construcción (infraestructuras, equipamientos públicos)  | |  |  |  |    |
+| Dominio |  Estado  |   Links   |   Issues   |   Descripción   | 
+| -------- | -------- | --------- | ---------- | --------------- | 
+| Urbanismo e infraestructuras | Inexistente |  *[Repositorio](https://github.com/opencitydata/urbanismo-infraestructuras-cartografica)* |  *[Generar issue](https://github.com/opencitydata/urbanismo-infraestructuras-cartografica/issues)*   | Saneamiento público, Construcción (infraestructuras, equipamientos públicos)  | 
  
  
   
